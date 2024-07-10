@@ -1,4 +1,4 @@
-const b3 =()=>{
+const b4 =()=>{
     console.log("main function")
 };
 const b3 =()=>{
