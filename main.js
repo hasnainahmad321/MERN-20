@@ -1,12 +1,9 @@
-const main =()=>{
+const b3 =()=>{
     console.log("main function")
 };
-const evenodd =()=>{
+const b3 =()=>{
     console.log("evenodd fuction")
 }
-const main 2 =()=>{
-    console.log("main2 function")
-}
-const oddfunction =()=>{
-    console.log("oddfunction function")
-}
+const b4 =()=>{
+    console.log("odd function")
+};
