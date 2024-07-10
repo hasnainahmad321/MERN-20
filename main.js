@@ -7,3 +7,6 @@ const evenodd =()=>{
 const main 2 =()=>{
     console.log("main2 function")
 }
+const oddfunction =()=>{
+    console.log("oddfunction function")
+}
